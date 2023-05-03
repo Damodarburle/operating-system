@@ -99,5 +99,5 @@ printf("Average Turnaround Time: %.2f\n", (float)total_turnaround_time/n);
 return 0;
 }
 
-out put:
+
 

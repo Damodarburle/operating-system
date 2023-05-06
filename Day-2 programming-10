@@ -1,4 +1,6 @@
-10.Consider the following process table with number of processes that contains allocation field (for showing the number of resources of type: A, B and C allocated to each process in the table), max field (for showing the 	maximum number of resources of type: A, B, and C that can be allocated to each process). Write a program to 	calculate the entries of need matrix using the formula: (Need)i = (Max)i - (Allocation)i
+10.Consider the following process table with number of processes that contains allocation field
+(for showing the number of resources of type: A, B and C allocated to each process in the table), max field (for showing the 	maximum number of 
+resources of type: A, B, and C that can be allocated to each process). Write a program to 	calculate the entries of need matrix using the formula: (Need)i = (Max)i - (Allocation)i
 
 Process 
 Allocation 
